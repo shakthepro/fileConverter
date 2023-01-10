@@ -8,7 +8,8 @@ def main():
     return 1
 
 #function code built by Yasen, https://stackoverflow.com/users/5720818/yasen
-#exact source code: https://stackoverflow.com/questions/57344112/how-to-convert-video-on-python-to-mp4-without-ffmpeg
+#exact source c
+#code: https://stackoverflow.com/questions/57344112/how-to-convert-video-on-python-to-mp4-without-ffmpeg
 
 def convertFile(input_file, output_file):
     clip = moviepy.VideoFileClip(input_file)
