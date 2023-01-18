@@ -9,5 +9,9 @@
  5. Do not have quotations marks in input or will not work.
  6. The output should be in the local users folder.
 # Download
- ## ```git clone https://github.com/shakthepro/fileConverter.git```
- ## or download the script directly
+ ```git clone https://github.com/shakthepro/fileConverter.git```
+ or download the script directly
+ 
+ # Disclamer
+  The program may overwrite exisitng files if the file name is already existing on local
+  
